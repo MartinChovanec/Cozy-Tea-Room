@@ -111,7 +111,8 @@ img {
     background-image: url(img-locations-background.jpeg);
     min-height: 500px;
     background-repeat: no-repeat;
-    background-position: 50%;
+    background-position: 42%;
+    background-size: cover;
     display: flex;
     flex-wrap: wrap;
     gap: 1rem 2.5rem;
