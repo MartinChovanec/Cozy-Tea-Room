@@ -51,6 +51,7 @@ img {
 .header {
     min-height: 69px;
     padding-right: 0.625rem;
+    padding-bottom: 0.5rem;
     padding-left: 0.625rem;
     display: flex;
     justify-content: space-between;
