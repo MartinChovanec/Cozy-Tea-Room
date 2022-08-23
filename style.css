@@ -123,6 +123,9 @@ img {
     margin-left: auto;
     padding-bottom: 1rem;
 }
+@media only screen and (max-width: 380px) {
+    .locations { background-image: none }
+  }
 .headline-locations {
     flex-basis: 100%;
     margin-top: 3rem;
