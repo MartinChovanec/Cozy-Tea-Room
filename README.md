@@ -1,3 +1,3 @@
 # Cozy-Tea-Room
 
-Created according to pdf document from a task in a Codecademy.
+Static website of a fictional teahouse. Created according PDF from a Codecademy project. HTML and CSS used
